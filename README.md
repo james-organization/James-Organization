@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/98ee18182f9f42eb90e178c3636f9aee)](https://app.codacy.com/app/jm3408867/James-Organization_2?utm_source=github.com&utm_medium=referral&utm_content=james-organization/James-Organization&utm_campaign=Badge_Grade_Dashboard)
+
 You can use the [editor on GitHub](https://github.com/Jay-the-entrepreneur/James-Organization/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
